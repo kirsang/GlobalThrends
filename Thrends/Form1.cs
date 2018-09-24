@@ -16,5 +16,20 @@ namespace Thrends
         {
             InitializeComponent();
         }
+
+        private void _ButtonExit_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
+
+        private void _Button1Otrisovka_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void _Button2Otrisovka_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
